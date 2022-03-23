@@ -195,7 +195,7 @@ Children:
       Type: BaseDataVariableType
       DataType: LocalizedText
       ModellingRule: Optional
-      Value: {"LocaleId":"en-US","Text":"Automatico"}
+      Value: {"LocaleId":"en-US","Text":"Manuale"}
     - Name: LeftMargin
       Type: BaseVariableType
       DataType: Size
@@ -205,4 +205,4 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 240.0
+      Value: 332.0
